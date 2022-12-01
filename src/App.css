@@ -1,0 +1,25 @@
+body{
+              background: linear-gradient( #FFC595 4%, #6B66FF 50.32%);
+}
+#cric{
+              color:blue;
+              margin-left:1600px;
+              margin-bottom: 40px;
+              background-image: url('/images/bot.webp');
+}
+#cri{
+              color:red;
+              margin-left: 1600px;
+              margin-bottom: 40px;
+              font-style: oblique;
+}
+#bro{
+              background-color: yellowgreen;
+              border-radius: 0.3rem;
+}
+#blank{
+              background:black;
+              margin:0px;
+              padding:80px;
+              text-align: center;
+;}
